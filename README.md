@@ -1,4 +1,4 @@
-# Sofy_app_upload_appcenter
+# Sofy App Upload Appcenter
 
 How to integrate Sofy into your App Center pipeline
 
